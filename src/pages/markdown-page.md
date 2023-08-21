@@ -1,5 +1,7 @@
 ---
 title: Markdown page example
+slug: /
+id: home
 ---
 
 # Markdown page example
