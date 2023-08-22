@@ -84,8 +84,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Get Started',
+                to: '/docs/getting-started',
               },
             ],
           },
@@ -111,8 +111,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Code on the Rocks',
+                href: 'https://codeontherocks.dev/',
               },
               {
                 label: 'GitHub',
