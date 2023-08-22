@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/docs/getting-started',
+                to: '/docs/getting-started/why-cotr',
               },
             ],
           },
