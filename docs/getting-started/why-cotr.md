@@ -50,7 +50,7 @@ I find complexity in a state management solution unnecessary, especially conside
 
 ## Isn't this ScopedModel?
 
-Of all the currently available state management packages, CotR is most similar to scoped_model, but there are a few differences.
+Of all the currently available state management packages, code_on_the_rocks is most similar to scoped_model, but there are a few differences.
 - scoped_model Models are ChangeNotifiers. CotR ViewModels are State objects.
 - In scoped_model, ScopedModels use AnimationBuilders to listen to their Models. In CotR, ViewModelBuilders are StatefulWidget that get rebuilt when setState is called.
 - ScopedModels require the Model to be passed in as an argument. A ViewModelBuilder is unique to a ViewModel and does not require an argument.

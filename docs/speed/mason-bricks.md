@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# CotR CLI
+# Mason Bricks
 <div class="alert alert--warning" role="alert">
   Coming Soon 🏗️
 </div>
