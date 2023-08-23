@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcotr_guide=self.webpackChunkcotr_guide||[]).push([[8617],{4846:t=>{t.exports=JSON.parse('{"title":"\ud83d\ude80 Getting Started","slug":"/category/-getting-started","permalink":"/docs/category/-getting-started","navigation":{"next":{"title":"Why Code on the Rocks?","permalink":"/docs/getting-started/why-cotr"}}}')}}]);

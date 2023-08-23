@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcotr_guide=self.webpackChunkcotr_guide||[]).push([[9126],{6084:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/docs.codeontherocks.dev/blog/tags/hello","allTagsPath":"/docs.codeontherocks.dev/blog/tags","count":2}')}}]);
